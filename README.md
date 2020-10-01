@@ -1,2 +1,3 @@
-# Basic-C-Program
-its my first repository
+# My first c Program
+print Hello world
+
